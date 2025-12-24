@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neerajjagga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neerajjagga/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/neerajjagga/DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/neerajjagga/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/neerajjagga/leetcode-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/neerajjagga/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/neerajjagga/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/neerajjagga/DSA/tree/master/0204-count-primes) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajjagga/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Matrix
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/neerajjagga/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/neerajjagga/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/neerajjagga/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajjagga/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
