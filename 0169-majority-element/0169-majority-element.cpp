@@ -1,15 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        int n = nums.size();
-        // implement binary search
+        int el = nums[0], count = 0;
 
-        int start = 0;
-        int end = n - 1;
+        for(int i=0; i<nums.size(); i++) {
+            if(nums[i] == el) {
+                count++;
+            } else {
+                count--;
+            }
 
-        int mid = start + (end-start)/2;
+            if(count == 0) {
+                el = nums[i];
+                count = 1;
+            }
+        }
 
-        return nums[mid];
+        return el;
     }
 };
