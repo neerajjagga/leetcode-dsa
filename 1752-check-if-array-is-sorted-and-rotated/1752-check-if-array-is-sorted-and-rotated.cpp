@@ -1,14 +1,16 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        int rotations = 0;
+        int breakCount = 0;
+        
+        for(int i = 0; i < nums.size(); i++) {
+            if(nums[i] > nums[(i + 1) % nums.size()])
+                breakCount++;
 
-        for(int i=0; i<nums.size(); i++) {
-            if(nums[i] > nums[(i+1) % nums.size()]) {
-                rotations++;
-            }
+                if (breakCount > 1)
+                    return false;
         }
 
-        return rotations <= 1;
+        return breakCount <= 1;
     }
 };
