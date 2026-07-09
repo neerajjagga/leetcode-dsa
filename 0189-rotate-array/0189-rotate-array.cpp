@@ -1,11 +1,13 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        // Normalize k to be within the array bounds
-        k = k % nums.size();
-        
-        reverse(nums.begin(), (nums.end() - k));
-        reverse((nums.end() - k), nums.end());
+        int n = nums.size();
+
+        // normalize k
+        k = k % n;
+
         reverse(nums.begin(), nums.end());
+        reverse(nums.begin(), nums.begin() + k);
+        reverse(nums.begin() + k, nums.end());
     }
 };
