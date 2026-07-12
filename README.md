@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/neerajjagga/DSA/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/neerajjagga/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neerajjagga/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajjagga/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/neerajjagga/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neerajjagga/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajjagga/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajjagga/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajjagga/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/neerajjagga/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## String
 |  |
