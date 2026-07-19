@@ -10,9 +10,6 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        int colMid = m / 2;
-        int lastSwappedColIndex = m - 1;
-
         for(int i=0; i<n; i++) {
             for(int j = i; j<m; j++) {
                 swap(matrix[i][j], matrix[j][i]);
@@ -20,10 +17,8 @@ public:
         }
 
         for(int i=0; i<n; i++) {
-            lastSwappedColIndex = m - 1;
-            for(int j=0; j<colMid; j++) {
-                swap(matrix[i][j], matrix[i][lastSwappedColIndex]);
-                lastSwappedColIndex--;
+            for(int j=0; j<m/2; j++) {
+                swap(matrix[i][j], matrix[i][m-1-j]);
             }
         }
     }
