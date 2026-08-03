@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/neerajjagga/DSA/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/neerajjagga/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/neerajjagga/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/neerajjagga/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/neerajjagga/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/neerajjagga/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajjagga/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/neerajjagga/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajjagga/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
