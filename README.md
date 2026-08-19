@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/neerajjagga/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neerajjagga/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajjagga/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/neerajjagga/leetcode-dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/neerajjagga/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neerajjagga/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajjagga/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/neerajjagga/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/neerajjagga/DSA/tree/master/0926-find-and-replace-pattern) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/neerajjagga/leetcode-dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2406-decode-the-message](https://github.com/neerajjagga/DSA/tree/master/2406-decode-the-message) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/neerajjagga/leetcode-dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
