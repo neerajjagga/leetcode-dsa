@@ -3,16 +3,17 @@ class NumArray {
 
 public:
     NumArray(vector<int>& nums) {
-        prefix.resize(nums.size() + 1);
+        prefix.resize(nums.size());
 
-        prefix[0] = 0;
+        prefix[0] = nums[0];
 
-        for(int i = 0; i < nums.size(); i++) {
-            prefix[i + 1] = prefix[i] + nums[i];
+        for(int i = 1; i < nums.size(); i++) {
+            prefix[i] = prefix[i-1] + nums[i];
         }
     }
     
     int sumRange(int left, int right) {
-        return prefix[right + 1] - prefix[left];
+        if(left == 0) return prefix[right];
+        return prefix[right] - prefix[left-1];
     }
 };
