@@ -1,17 +1,26 @@
 class Solution {
 public:
-    int funct(vector<int> &prefixSum, int L, int M) {
-        int n = prefixSum.size();
+    int funct(vector<int> &nums, int L, int M) {
+        int n = nums.size();
 
-        int result = 0; // max overall sum
-        int maxLBlockSum = 0;
+        int lBlockSum = 0;
+        int mBlockSum = 0;
 
-        for(int mEnd=L+M-1; mEnd<n; mEnd++) {
-            int lEnd = mEnd - M;
-            int lStartPrevIndex = lEnd - L;
+        // precompute sum till L+M-1
+        for(int i=0; i<=L+M-1; i++) {
+            if(i < L) {
+                lBlockSum += nums[i];
+            } else {
+                mBlockSum += nums[i];
+            }
+        }
+        
+        int result = mBlockSum + lBlockSum; // max overall sum
+        int maxLBlockSum = lBlockSum;
 
-            int mBlockSum = prefixSum[mEnd] - prefixSum[lEnd];
-            int lBlockSum = prefixSum[lEnd] - (lStartPrevIndex < 0 ? 0 : prefixSum[lStartPrevIndex]);
+        for(int mEnd=L+M; mEnd<n; mEnd++) {
+            mBlockSum = mBlockSum + nums[mEnd] - nums[mEnd-M];
+            lBlockSum = lBlockSum + nums[mEnd-M] - nums[mEnd-M-L];
 
             maxLBlockSum = max(maxLBlockSum, lBlockSum);
 
@@ -22,15 +31,6 @@ public:
     }
 
     int maxSumTwoNoOverlap(vector<int>& nums, int L, int M) {
-        int n = nums.size();
-
-        vector<int> prefixSum(n);
-        prefixSum[0] = nums[0];
-
-        for(int i=1; i<n; i++) {
-            prefixSum[i] = prefixSum[i-1] + nums[i];
-        }
-
-        return max(funct(prefixSum, L, M), funct(prefixSum, M, L));
+        return max(funct(nums, L, M), funct(nums, M, L));
     }
 };
