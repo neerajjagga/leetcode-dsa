@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // https://chatgpt.com/share/6a8aaf1b-0f68-83ee-81dc-5c92ddb73f17
     long long numOfSubsequences(string s) {
         int n = s.length();
 
