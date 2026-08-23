@@ -150,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/neerajjagga/DSA/tree/master/0647-palindromic-substrings) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/neerajjagga/leetcode-dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/neerajjagga/leetcode-dsa/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/neerajjagga/DSA/tree/master/0680-valid-palindrome-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/neerajjagga/leetcode-dsa/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/neerajjagga/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajjagga/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/neerajjagga/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/neerajjagga/leetcode-dsa/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## String
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajjagga/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/neerajjagga/DSA/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/neerajjagga/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/neerajjagga/leetcode-dsa/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Stack
 |  |
 | ------- |
