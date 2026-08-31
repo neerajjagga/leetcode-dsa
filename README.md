@@ -245,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neerajjagga/leetcode-dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/neerajjagga/leetcode-dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
