@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/neerajjagga/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/neerajjagga/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/neerajjagga/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/neerajjagga/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/neerajjagga/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajjagga/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neerajjagga/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neerajjagga/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neerajjagga/leetcode-dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Dynamic Programming
@@ -202,10 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/neerajjagga/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/neerajjagga/leetcode-dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Trie
 |  |
@@ -252,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/neerajjagga/leetcode-dsa/tree/master/0069-sqrtx) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
