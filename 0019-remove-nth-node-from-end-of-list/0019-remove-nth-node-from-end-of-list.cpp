@@ -10,38 +10,57 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-        ListNode* next = nullptr;
+    // ListNode* reverseList(ListNode* head) {
+    //     ListNode* prev = nullptr;
+    //     ListNode* curr = head;
+    //     ListNode* next = nullptr;
 
-        while(curr != nullptr) {
-            next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
+    //     while(curr != nullptr) {
+    //         next = curr->next;
+    //         curr->next = prev;
+    //         prev = curr;
+    //         curr = next;
+    //     }
 
-        return prev;
-    }
+    //     return prev;
+    // }
+
+    // ListNode* removeNthFromEnd(ListNode* head, int n) {
+    //     ListNode* newHead = reverseList(head);
+    //     if(n == 1) {
+    //         ListNode* temp = newHead;
+    //         newHead = newHead->next;
+    //         delete temp;
+    //     } else {
+    //         ListNode* curr = newHead;
+
+    //         for(int i=1; i<n-1; i++) {
+    //             curr = curr->next;
+    //         }
+
+    //         ListNode* temp = curr->next;
+    //         curr->next = curr->next->next;
+    //         delete temp;
+    //     }
+    //     return reverseList(newHead);
+    // }
 
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* newHead = reverseList(head);
-        if(n == 1) {
-            ListNode* temp = newHead;
-            newHead = newHead->next;
-            delete temp;
-        } else {
-            ListNode* curr = newHead;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        
+        for(int i=0; i<n; i++) fast = fast->next;
+        
+        if(fast == nullptr) return head->next;
 
-            for(int i=1; i<n-1; i++) {
-                curr = curr->next;
-            }
-
-            ListNode* temp = curr->next;
-            curr->next = curr->next->next;
-            delete temp;
+        while(fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next;
         }
-        return reverseList(newHead);
+
+        ListNode* delNode = slow->next;
+        slow->next = slow->next->next;
+        delete delNode;
+        return head;
     }
 };
