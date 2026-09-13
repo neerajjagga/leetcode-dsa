@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/neerajjagga/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/neerajjagga/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/neerajjagga/DSA/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/neerajjagga/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/neerajjagga/leetcode-dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/neerajjagga/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/neerajjagga/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neerajjagga/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Math
