@@ -1,39 +1,35 @@
 class Solution {
 public:
-    
-    bool isPossibleSol(vector<int> &nums, int k, int sol) {
-        int totalSum = 0;
-        int countSubarray = 1;
+    bool isPossible(vector<int> &nums, int k, long long maxSubSum) {
+        long long currSubSum = 0;
+        int partitions = 1;
 
-        for(int i=0; i<nums.size(); i++) {
-            if(nums[i] > sol) return false;
-
-            if(totalSum + nums[i] > sol) {
-                countSubarray++;
-                totalSum = nums[i];
-
-                if(countSubarray > k) return false;
+        for(int num: nums) {
+            if(currSubSum + num > maxSubSum) {
+                partitions++;
+                currSubSum = num;
             }
-            else totalSum += nums[i];
+            else currSubSum += num; 
         }
-        return true;
-    } 
+
+        return partitions <= k;
+    }
+
     int splitArray(vector<int>& nums, int k) {
-        int start = 0;
-        int end = accumulate(nums.begin(), nums.end(), 0);
+        int low = *max_element(nums.begin(), nums.end());
+        long long high = accumulate(nums.begin(), nums.end(), 0LL);
         int ans = -1;
 
-        while(start <= end) {
-            int mid = start + (end - start)/2;
+        while(low <= high) {
+            long long mid = (low + high) / 2;
 
-            if(isPossibleSol(nums, k, mid)) {
+            if(isPossible(nums, k, mid)) {
                 ans = mid;
-                end = mid - 1;
+                high = mid - 1;
             }
-            else {
-                start = mid + 1;
-            }
+            else low = mid + 1;
         }
+
         return ans;
     }
 };
