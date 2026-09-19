@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajjagga/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/neerajjagga/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/neerajjagga/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/neerajjagga/leetcode-dsa/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/neerajjagga/DSA/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/neerajjagga/DSA/tree/master/0953-reverse-only-letters) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/neerajjagga/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/neerajjagga/leetcode-dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
