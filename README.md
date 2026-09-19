@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/neerajjagga/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/neerajjagga/DSA/tree/master/0204-count-primes) |
+| [1903-largest-odd-number-in-string](https://github.com/neerajjagga/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajjagga/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3536-maximum-product-of-two-digits](https://github.com/neerajjagga/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/neerajjagga/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/neerajjagga/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/neerajjagga/leetcode-dsa/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Prefix Sum
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/neerajjagga/DSA/tree/master/0953-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/neerajjagga/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/neerajjagga/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/neerajjagga/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/neerajjagga/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajjagga/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/neerajjagga/DSA/tree/master/2406-decode-the-message) |
