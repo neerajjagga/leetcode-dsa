@@ -362,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/neerajjagga/leetcode-dsa/tree/master/0796-rotate-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/neerajjagga/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
