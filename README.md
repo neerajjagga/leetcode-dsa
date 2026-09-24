@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/neerajjagga/DSA/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/neerajjagga/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/neerajjagga/leetcode-dsa/tree/master/1922-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajjagga/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3536-maximum-product-of-two-digits](https://github.com/neerajjagga/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/neerajjagga/leetcode-dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/neerajjagga/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/neerajjagga/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/neerajjagga/leetcode-dsa/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
