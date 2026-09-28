@@ -2,28 +2,30 @@ class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
         int n = cardPoints.size();
-        int l = k-1, r = n-1;
-        
-        int maxScore = 0;
-        int currentScore = 0;
-        
-        // precompute first k elements sum
-        for(int i=0; i<=l; i++) {
-            currentScore += cardPoints[i];
+        int totalSum = accumulate(cardPoints.begin(), cardPoints.end(), 0);
+
+        if(k == n)
+            return totalSum;
+     
+        int windowSum = 0;
+        int windowSize = n - k;
+
+        int i = 0;
+        while(i < windowSize) {
+            windowSum += cardPoints[i];
+            i++;
         }
         
-        maxScore = currentScore;
-        
-        // if length of array is equal to k - then direct return precompute score
-        if(k == n) return maxScore;
-        
-        while (l >= 0) {
-            currentScore -= cardPoints[l--];
-            currentScore += cardPoints[r--];
-            maxScore = max(maxScore, currentScore);
+        int minWindowSum = windowSum;
+
+        int left = 0;
+        for(int right = windowSize; right < n; right++) {
+            windowSum -= cardPoints[left];
+            windowSum += cardPoints[right];
+            minWindowSum = min(minWindowSum, windowSum);
+            left++;
         }
-        
-        
-        return maxScore;
+
+        return totalSum - minWindowSum;
     }
 };
