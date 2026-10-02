@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/neerajjagga/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/neerajjagga/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/neerajjagga/leetcode-dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neerajjagga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neerajjagga/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/neerajjagga/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/neerajjagga/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neerajjagga/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajjagga/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/neerajjagga/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/neerajjagga/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/neerajjagga/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/neerajjagga/leetcode-dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/neerajjagga/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/neerajjagga/leetcode-dsa/tree/master/0205-isomorphic-strings) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/neerajjagga/leetcode-dsa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/neerajjagga/leetcode-dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/neerajjagga/leetcode-dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/neerajjagga/leetcode-dsa/tree/master/0131-palindrome-partitioning) |
 ## Memoization
@@ -414,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/neerajjagga/leetcode-dsa/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
