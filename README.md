@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/neerajjagga/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/neerajjagga/DSA/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0912-sort-an-array) |
 | [0926-find-and-replace-pattern](https://github.com/neerajjagga/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/neerajjagga/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/neerajjagga/leetcode-dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
+| [0912-sort-an-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/neerajjagga/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0912-sort-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neerajjagga/leetcode-dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Dynamic Programming
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neerajjagga/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/neerajjagga/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -378,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/neerajjagga/leetcode-dsa/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0912-sort-an-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -422,4 +428,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/neerajjagga/leetcode-dsa/tree/master/0079-word-search) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neerajjagga/leetcode-dsa/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
